@@ -1,0 +1,28 @@
+name: Constructorator
+favicon: null
+layout_spectrum: 0.5969932158477604
+typography_spectrum: 0.7064669290557504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4319962824229151
+  lightness: 0.9790794404689223
+  saturation: 0.5741196982562542
+  rhythmicContrast: 0.02044575847685337
+purpose: []
