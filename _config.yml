@@ -1,7 +1,7 @@
 name: Constructorator
 favicon: null
-layout_spectrum: 0.5969932158477604
-typography_spectrum: 0.7064669290557504
+layout_spectrum: 0.23858
+typography_spectrum: 0.25677
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#4f504b'
     - '#1b75aa'
   brandStrength: 0.4319962824229151
-  lightness: 0.9790794404689223
+  lightness: 0
   saturation: 0.5741196982562542
   rhythmicContrast: 1
 purpose: []
