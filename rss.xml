@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Constructorator]]></title>
+        <description><![CDATA[Constructorator]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 00:48:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Foreman Forms]]></title>
+            <description><![CDATA[<article><h1>Foreman Forms</h1><p>Free Mobile Daily Forms for construction Foreman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c90c7d2a3cf2e646a6f0f7d600914e4a4280765.png"></article>]]></description>
+            <link>http://www.constructorator.com/foreman-forms.html</link>
+            <guid isPermaLink="false">9f27fe15-a0f5-46cb-a337-1daea5868e35</guid>
+            <pubDate>Tue, 26 Jan 2016 00:48:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
