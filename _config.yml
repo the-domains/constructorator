@@ -1,19 +1,4 @@
-name: Constructorator
-favicon: null
-layout_spectrum: 0.23858
 typography_spectrum: 0.49008
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0c0e0d'
@@ -25,4 +10,23 @@ color:
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23858
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Constructorator
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: 'http://www.constructorator.com/about.html'
+    type: external
+favicon: null
 purpose: []
